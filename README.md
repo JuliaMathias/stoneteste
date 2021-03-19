@@ -1,1 +1,3 @@
 # stoneteste
+
+playing with git
