@@ -1,3 +1,4 @@
+/.vscode
 /_build
 /cover
 /deps
@@ -7,4 +8,11 @@ erl_crash.dump
 *.ez
 *.beam
 /config/*.secret.exs
-.elixir_ls/
+.elixir_ls
+/**/node_modules
+log/
+
+/deploy/rendered/
+/dist
+
+/_dialyzer/
